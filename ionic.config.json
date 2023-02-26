@@ -1,0 +1,8 @@
+{
+  "name": "Heap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bbda6ae2"
+}
